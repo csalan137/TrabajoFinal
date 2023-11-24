@@ -9,18 +9,44 @@ int main (){
 	do{
 		cout<<"\n\t\tParque Barranca de Huentita"<<endl<<endl;
 		cout<<"\t1. iniciar\n\t2. instrucciones\n\t3. opciones\n\t4. creditos\n\t5. salir del juego"<<endl;
-		cout<<"\nIngrese la opcion: ";
+		cout<<"\n\tIngrese la opcion: ";
 		cin>>opc;
 		
 		switch(opc){
 			case 1:
-				cout<<"Dame tu nombre: "<<endl;
+				cout<<"\n\tIngresa tu nombre: "<<endl;
 				cin.ignore();
 				getline(cin, nombreUsuario);
-				cout<<"Empieza la historia....";
+				system("cls");
+				cout<<"\n\n\tParque Barranca de Huentita"<<endl;
+				cout<<"\n\tRuidos de perro rascando la puerta!"<<endl;
+				cout<<"\n\tPerro: Ladridos y sonidos de rasguños en las paredes y la puerta!"<<endl;
+				cout<<"\n\tPersona femenina: Callate Eros!"<<endl;
+				cout<<"\n\t...(momento de silencio)..."<<endl;
+				cout<<"\n\t..."<<endl;
+				cout<<"\n\t..."<<endl;
+				system("pause");
+				cout<<"\n\tEros: Ladridos, chillidos y sonidos de sus uñas rosando y rasguñando la puerta de madera de la cabaña."<<endl;
+				cout<<"\n\tPersona masculina: Shhh!"<<endl;
+				cout<<"\n\t...(momento de silencio)..."<<endl;
+				cout<<"\n\t..."<<endl;
+				cout<<"\n\t..."<<endl;
+				cout<<"\n\t...(momento de silencio)..."<<endl;
+				cout<<"\n\t..."<<endl;
+				cout<<"\n\t..."<<endl;
+				system("pause");
+				cout<<"\n\tEros: Ladridos mas fuertes y agresivos"<<endl;
+				cout<<"\n\tPersona masculina2: ¡Callen a ese wuey!"<<endl;
+				cout<<"\n\tEros: Rascando y chillando"<<endl<<endl;
+				cout<<nombreUsuario<<": Habro los ojos y decido levantarme para averiguar que quiere Eros"<<endl;
+				cout<<"\n\tMe pongo al pie de la cama y decido..."<<endl;
+				system("pause");
+				
+				system("cls");
 				break;
 			case 2:
-				cout<<"Solo se utilizara numeros para la interaccion\nde la historia, del 1 al 5 en el menu y\ndel 1 al 4 en el juego";
+				system("cls");
+				cout<<"\n\tSolo se utilizan numeros para la interaccion de la historia,\n\tdel 1 al 5 en el menu y del 1 al 4 en el juego";
 				break;
 			case 3:
 				cout<<"Sonido, idioma, graficos y modos de control\nse apreciaran en la version terminada";
