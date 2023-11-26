@@ -30,14 +30,14 @@ int main (){
 				system("cls");
 				cout<<"\n\n\tParque Barranca de Huentita"<<endl;
 				cout<<"\n\tRuidos de perro rascando la puerta!"<<endl;
-				cout<<"\n\tPerro: Ladridos y sonidos de rasgu?os en las paredes y la puerta!"<<endl;
+				cout<<"\n\tPerro: Ladridos y sonidos de rasguños en las paredes y la puerta!"<<endl;
 				cout<<"\n\tPersona femenina: Callate Eros!"<<endl;
 				cout<<"\n\t...(momento de silencio)..."<<endl;
 				cout<<"\n\t..."<<endl;
 				cout<<"\n\t...\n"<<endl;
 				system("pause");
 				system("cls");
-				cout<<"\n\tEros: Ladridos, chillidos y sonidos de sus u?as rosando y rasgu?ando la puerta de madera de la caba?a."<<endl;
+				cout<<"\n\tEros: Ladridos, chillidos y sonidos de sus uñas rosando y rasgu?ando la puerta de madera de la cabaña."<<endl;
 				cout<<"\n\tPersona masculina: Shhh!"<<endl;
 				cout<<"\n\t...(momento de silencio)..."<<endl;
 				cout<<"\n\t..."<<endl;
@@ -48,9 +48,9 @@ int main (){
 				system("pause");
 				system("cls");
 				cout<<"\n\tEros: Ladridos mas fuertes y agresivos"<<endl;
-				cout<<"\n\tPersona masculina2: ?Callen a ese wuey!"<<endl;
+				cout<<"\n\tPersona masculina2: Callen a ese wuey!"<<endl;
 				cout<<"\n\tEros: Rascando y chillando"<<endl<<endl;
-				cout<<nombre_usuario<<": Habro los ojos y decido levantarme para averiguar que quiere Eros"<<endl;
+				cout<<nombre_usuario<<": Abro los ojos y decido levantarme para averiguar que quiere Eros"<<endl;
 				cout<<"\n\tMe pongo al pie de la cama y decido...\n"<<endl;
 				system("pause");				
 				system("cls");
@@ -67,14 +67,14 @@ int main (){
 						
 						case 1:
 							cout<<"\n\tRuidos de perro rascando la puerta!"<<endl;
-							cout<<"\n\tPerro: Ladridos y sonidos de rasgu?os en las paredes y la puerta!"<<endl;
+							cout<<"\n\tPerro: Ladridos y sonidos de rasguños en las paredes y la puerta!"<<endl;
 							cout<<"\n\tPersona femenina: Callate Eros!"<<endl;
 							cout<<"\n\t...(momento de silencio)..."<<endl;
 							cout<<"\n\t..."<<endl;
 							cout<<"\n\t...\n"<<endl;
 							system("pause");
 							system("cls");
-							cout<<"\n\tEros: Ladridos, chillidos y sonidos de sus u?as rosando y rasgu?ando la puerta de madera de la caba?a."<<endl;
+							cout<<"\n\tEros: Ladridos, chillidos y sonidos de sus uñas rosando y rasgu?ando la puerta de madera de la cabaña."<<endl;
 							cout<<"\n\tPersona masculina: Shhh!"<<endl;
 							cout<<"\n\t...(momento de silencio)..."<<endl;
 							cout<<"\n\t..."<<endl;
@@ -85,9 +85,9 @@ int main (){
 							system("pause");
 							system("cls");
 							cout<<"\n\tEros: Ladridos mas fuertes y agresivos"<<endl;
-							cout<<"\n\tPersona masculina2: ?Callen a ese wuey!"<<endl;
+							cout<<"\n\tPersona masculina2: Callen a ese wuey!"<<endl;
 							cout<<"\n\tEros: Rascando y chillando"<<endl<<endl;
-							cout<<nombre_usuario<<": Habro los ojos y decido levantarme para averiguar que quiere Eros"<<endl;
+							cout<<nombre_usuario<<": Abro los ojos y decido levantarme para averiguar que quiere Eros"<<endl;
 							cout<<"\n\tMe pongo al pie de la cama y decido...\n"<<endl;
 							cout<<"\n\t-10 Puntos\n"<<endl;
 							x = x - 10;
@@ -100,14 +100,14 @@ int main (){
 							system("pause");				
 							system("cls");
 							cout<<"\n\tRuidos de perro rascando la puerta!"<<endl;
-							cout<<"\n\tPerro: Ladridos y sonidos de rasgu?os en las paredes y la puerta!"<<endl;
+							cout<<"\n\tPerro: Ladridos y sonidos de rasguños en las paredes y la puerta!"<<endl;
 							cout<<"\n\tPersona femenina: Callate Eros!"<<endl;
 							cout<<"\n\t...(momento de silencio)..."<<endl;
 							cout<<"\n\t..."<<endl;
 							cout<<"\n\t...\n"<<endl;
 							system("pause");
 							system("cls");
-							cout<<"\n\tEros: Ladridos, chillidos y sonidos de sus u?as rosando y rasgu?ando la puerta de madera de la caba?a."<<endl;
+							cout<<"\n\tEros: Ladridos, chillidos y sonidos de sus uñas rosando y rasguñando la puerta de madera de la cabaña."<<endl;
 							cout<<"\n\tPersona masculina: Shhh!"<<endl;
 							cout<<"\n\t...(momento de silencio)..."<<endl;
 							cout<<"\n\t..."<<endl;
@@ -118,9 +118,9 @@ int main (){
 							system("pause");
 							system("cls");
 							cout<<"\n\tEros: Ladridos mas fuertes y agresivos"<<endl;
-							cout<<"\n\tPersona masculina2: ?Callen a ese wuey!"<<endl;
+							cout<<"\n\tPersona masculina2: Callen a ese wuey!"<<endl;
 							cout<<"\n\tEros: Rascando y chillando"<<endl<<endl;
-							cout<<nombre_usuario<<": Habro los ojos y decido levantarme para averiguar que quiere Eros"<<endl;
+							cout<<nombre_usuario<<": Abro los ojos y decido levantarme para averiguar que quiere Eros"<<endl;
 							cout<<"\n\tMe pongo al pie de la cama y decido...\n"<<endl;
 							cout<<"\n\t-10 Puntos\n"<<endl;
 							x = x - 10;
@@ -198,7 +198,7 @@ int main (){
 																
 																do{
 																	cout<<"6"<<endl;//sexta y ultima interaccion del usuario
-																	cout<<"\n\t1. Llamar a la policia\n\t2. Dormir un poco\n\t3. Quedarme despierto hasta que amanesca\n\t4. Salir al menu principal"<<endl;
+																	cout<<"\n\t1. Llamar a la policia\n\t2. Dormir un poco\n\t3. Quedarme despierto hasta que amanezca\n\t4. Salir al menu principal"<<endl;
 																	cout<<"\n\t"<<endl;
 																	cout<<"\n\tPuntos: "<<x<<endl;
 																	cout<<"\n\tIngrese la opcion: ";
